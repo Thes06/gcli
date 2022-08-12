@@ -1,4 +1,4 @@
 # gcli
-Libraryfor better interface in  CLI (Command Line Interface)
+Library for better interface in  CLI (Command Line Interface)
 
 GNU Public License 
